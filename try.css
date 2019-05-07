@@ -1,0 +1,39 @@
+.img{
+      margin: 15px;
+    }
+    .img:hover{
+      border: 1px solid white;
+    }
+    .m{
+      border: 1px solid white;
+      margin-left: 50px;
+      margin-right: 50px;
+      padding: 28px;
+    }
+    ul {
+      list-style-type: none;
+      margin-left: 59%;
+      padding: 0;
+      margin-top: -5%;
+    }
+    ul li{
+      display: inline-block;
+    }
+    ul li a{
+      color: white;
+    }
+    ul li a:hover{
+      color: yellow;
+    }
+    li{
+      margin: 8px;
+    }
+    .logotext{
+      color: white;
+      font-family: verdana;
+      font-size: 30px;
+      margin-left: 50px;
+    }
+    .slider{
+      margin-top: 88px;
+    }
